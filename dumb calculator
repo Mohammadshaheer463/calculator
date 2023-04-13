@@ -1,0 +1,5 @@
+c = input("first number: ")
+h = input("second number: ")
+j = float(c) + float(h)
+u = str(j)
+print("after hard calculation i think it is " + u)
